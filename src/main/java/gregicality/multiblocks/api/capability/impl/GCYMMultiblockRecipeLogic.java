@@ -20,6 +20,10 @@ public class GCYMMultiblockRecipeLogic extends MultiblockRecipeLogic {
         super(tileEntity);
     }
 
+    public GCYMMultiblockRecipeLogic(RecipeMapMultiblockController tileEntity, boolean hasPerfectOC) {
+        super(tileEntity, hasPerfectOC);
+    }
+
     @Override
     public int getParallelLimit() {
         if (metaTileEntity instanceof IParallelMultiblock && ((IParallelMultiblock) metaTileEntity).isParallel())
