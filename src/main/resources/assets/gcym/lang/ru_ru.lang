@@ -7,7 +7,7 @@ gcym.machine.tiered_hatch.ulv.name=Блок управления напряже�
 gcym.machine.tiered_hatch.lv.name=Блок управления напряжением (§7LV§r)
 gcym.machine.tiered_hatch.uxv.name=Блок управления напряжением (§eUXV§r)
 gcym.machine.tiered_hatch.max.name=Блок управления напряжением (§cMAX§r)
-gcym.material.zeron_100=Zeron-100
+gcym.material.zeron_100=Зерон-100
 
 # deprecation
 gcym.deprecation.tooltip=§cЭта машина УСТАРЕЛА! В следующем обновлении она будет УДАЛЕНА! Разбейте блок контроллера, чтобы вернуть материалы для крафта!
@@ -112,17 +112,17 @@ recipemap.alloy_blast_smelter.name=Доменная плавильня спла�
 
 # Materials
 gcym.material.stellite_100=Стеллит
-gcym.material.watertight_steel=Водонепроницаемая сталь
+gcym.material.watertight_steel=Водостойкая сталь
 gcym.material.maraging_steel_300=Мартенситностареющая сталь 300
-gcym.material.hastelloy_c_276=Хастеллой C276
-gcym.material.hastelloy_x=Хастеллой X
+gcym.material.hastelloy_c_276=Хастеллой-C276
+gcym.material.hastelloy_x=Хастеллой-X
 gcym.material.trinaquadalloy=Тринаквадосплав
 gcym.material.titanium_carbide=Карбид титана
 gcym.material.tantalum_carbide=Карбид тантала
 gcym.material.molybdenum_disilicide=Дисилицид молибдена
-gcym.material.hsla_steel=Высокопрочная низколегированная сталь
-gcym.material.titanium_tungsten_carbide=Титан-вольфрамовый карбид
-gcym.material.incoloy_ma_956=Инколой MA956
+gcym.material.hsla_steel=HSLA сталь
+gcym.material.titanium_tungsten_carbide=Вольфрам-титанановый карбид
+gcym.material.incoloy_ma_956=Инколой-MA956
 
 # fluids
 gcym.fluid.molten=Расплав (%s)
@@ -144,3 +144,4 @@ gcym.multiblock.steam_engine.description=Большой Паровой Двиг�
 
 # large multiblock casing
 tile.large_multiblock_casing.macerator_casing.name=Надежный корпус для измельчения
+gcym.tooltip.max_energy_hatches=Макс. Энерг. Разъем: §c%d
